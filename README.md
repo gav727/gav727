@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gav727
-- 👀 I’m interested in learing more about coding and getting more practice. 
+- 👋 Hi, I’m Gabe Villarreal
+- 👀 I’m interested in learing more about software development and getting more practice. 
 - 🌱 I’m currently learning the basics. 
 - 📫 How to reach me @ gvillarreal98@foxmail.com
 
