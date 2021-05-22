@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabe Villarreal
 - 👀 I’m interested in learing more about software development and getting more practice. 
-- 🌱 I’m currently learning the basics. 
+- 🌱 I’m currently learning about Java. 
 - 📫 How to reach me @ gvillarreal98@foxmail.com
 
 <!---
