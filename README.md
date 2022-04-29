@@ -2,9 +2,9 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=villarr&theme=ayu-mirage&layout=compact)](https://github.com/villarr)
 
-- 👀 I’m interested in learing more about software development and computer science.
-- 🌱 I’m currently learning about Java and using the Spring framework at Promineo Tech.
-- 📫 How to reach me @ gvillarreal@qq.com
+- 👀 I’m interested in learing more about software development and trying out different Linux distributions.
+- 🌱 I’m currently learning about how to configure NixOS on my laptop and playing with different Linux    distributions.
+- 📫 How to reach me @ gabriel.villarreal92@gmail.com
 
 <!--
 
